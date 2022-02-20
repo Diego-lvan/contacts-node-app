@@ -3,8 +3,11 @@
 # Requirements
 
 -Mysql downloaded
+
 -Node downloaded
+
 -Copy DB/db.sql and run it in mysql
+
 -Add .env variables
 
 # How to run the app
